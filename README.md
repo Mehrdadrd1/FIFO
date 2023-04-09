@@ -1,2 +1,12 @@
 # FIFO
-Fifo - Mapsa
+
+FIFO-MAPSA
+
+start
+see
+copy
+study
+do yourself
+study
+do yourself
+done!
